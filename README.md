@@ -45,4 +45,13 @@ The application has a navigation bar at the top that allows you to scroll throug
 
 ![Screenshot 2023-10-17 230803](https://github.com/Tabares2003/ModernPortfolio/assets/114357391/9c489af3-86c3-45de-8d99-ace982d04bb1)
 
+## License
 
+This project is licensed under the MIT license. This means that you are free to use, copy, modify and distribute the project.
+
+## Contact 
+
+If you have any questions or comments about this project, you can contact me at: juanpablorojas200308@gmail.com.
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
+        width="20" height="20"/>&nbsp;  [Linkedin](https://www.linkedin.com/in/pablo-tabares-17483b231/)
