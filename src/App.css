@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scrollbar-width: thin; 
+} 
+::-webkit-scrollbar {
+    width: 12px; 
+}  
+::-webkit-scrollbar-thumb {
+    background-color: #4d4d4d;
+    /* Color de la barra de desplazamiento */
+    border-radius: 20px;
+    /* Redondez de la barra de desplazamiento */
+}
