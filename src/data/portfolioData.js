@@ -10,7 +10,7 @@ export const dataProjectsEn = [
         typeProject: 'Porfolio',
         subtitle: 'Personal Porfolio',
         image: 'https://i.postimg.cc/dtwRMnCV/Mockup4.webp',
-        pageUrl: 'https://ecommerce-complete-phi.vercel.app/',
+        pageUrl: 'https://github.com/Tabares2003/EcommerceComplete',
         githubUrl: 'https://github.com/Tabares2003/EcommerceComplete'
     },
     {
@@ -41,7 +41,7 @@ export const dataProjectsEs = [
         typeProject: 'Portafolio',
         subtitle: 'Portafolio Personal',
         image: 'https://i.postimg.cc/dtwRMnCV/Mockup4.webp',
-        pageUrl: 'https://ecommerce-complete-phi.vercel.app/',
+        pageUrl: 'https://github.com/Tabares2003/EcommerceComplete',
         githubUrl: 'https://github.com/Tabares2003/EcommerceComplete'
     },
     {
